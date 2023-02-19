@@ -1,1 +1,1 @@
-# Superposition-Lynbrook-Hackathon
+# Superposition Lynbrook Hackathon 2023
